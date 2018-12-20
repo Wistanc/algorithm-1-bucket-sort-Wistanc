@@ -1,11 +1,7 @@
-创建一个一维数组
-用for循环查找每个数
-找到最大值
-对应的数相比较,找出一个数,其对应数组+1
-输出非零的数
 
-int []a = new int [12,4,5,6,8];
-  for(i=0;i<a.length;i++){
+public class BucKetSort{
+public static void main(String[] args) {
+  System.out.println("hello");
+  }
     
-    
-    
+}
